@@ -2,5 +2,5 @@
 # returns a properly formatted phone number.
 
 def format_phone_number(phone_number_str)
-  
+  return phone_number_str
 end
